@@ -4,11 +4,11 @@ import excellence from "../../assets/exellence.jpg"
 import kenouch from "../../assets/kenouch.jpg"
 import kenouchEtYann from "../../assets/kenou_et_yann.jpg"
 import heures from "../../assets/24_heures.png"
-import lit from "../../assets/lit.JPG"
+import lit from "../../assets/lit.jpg"
 import sourire from "../../assets/Sourire.jpg"
-import deux from "../../assets/deux.PNG"
-import belle from "../../assets/belle.PNG"
-import blonde from "../../assets/blonde.PNG"
+import deux from "../../assets/deux.png"
+import belle from "../../assets/belle.png"
+import blonde from "../../assets/blonde.png"
 
 const Coeur = () => {
   const content: StructureType = {
